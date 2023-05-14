@@ -1,0 +1,12 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de testes de ponto a ponta no Mark L",
+  "main": "index.js",
+  "repository": "https://github.com/welquerjunio/cypress-express-mark.git",
+  "author": "Welquer Junio",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
