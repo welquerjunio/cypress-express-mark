@@ -1,3 +1,5 @@
+/// <reference types="cypress"/>
+
 describe('home', () => {
   it('Webapp deve estar online', () => {
     cy.visit('http://localhost:8080/')
